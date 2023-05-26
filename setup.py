@@ -6,7 +6,7 @@ README = (HERE / "README.md").read_text()
 
 setuptools.setup(
     name="zack-math",                     # This is the name of the package
-    version="0.0.2",                        # The initial release version
+    version="0.0.4",                        # The initial release version
     author="Zack Fan",                     # Full name of the author
     description="Quicksample Test Package for Math Demo",
     long_description=README,
