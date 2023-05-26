@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "zack_math"
-version = "0.0.1"
+name = "zack-math"
+version = "0.0.2"
 description = "a test project"
 authors = ["zackfan <zackfan@fugle.tw>"]
 license = "MIT"
